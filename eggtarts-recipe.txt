@@ -1,0 +1,2 @@
+ingredients:
+    egg, milk, whipped cream, sugar, pastry
